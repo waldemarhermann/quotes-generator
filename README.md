@@ -1,4 +1,4 @@
-#  Quote-generator Application
+#  Quote-generator
 
 A simple Web-Applicattion based on HTML, CSS and JS that delivers smart quotes by click on the quote-button, which can then be posted on Twitter.
 
